@@ -1,4 +1,3 @@
-```
 # AI Research Tools
 
 A curated and systematic collection of AI-powered tools for enhancing research workflows. This list draws from selected repositories, including [AI-Tools-for-Research](https://github.com/ozancanozdemir/AI-Tools-for-Research), [awesome-ai-research-tools](https://github.com/0x11c11e/awesome-ai-research-tools), and [ai-tools](https://github.com/drshahizan/ai-tools). Tools are clustered into categories for better organization, with summaries provided in tables. Duplicates across sources have been merged, and brief descriptions are included based on available information.
@@ -74,4 +73,3 @@ Miscellaneous tools that aid in research processes.
 | Tool              | Summary                                                                 | Link                              |
 |-------------------|-------------------------------------------------------------------------|-----------------------------------|
 | Researchbuddy App| AI for literature reviews and research summarization.                   | [researchbuddy.app](https://researchbuddy.app/search) |
-```
