@@ -29,6 +29,7 @@ Tools for summarizing, querying, and interacting with PDFs and documents.
 | AskYourPDF  | Upload documents and chat with them to ask questions and get insights.  | [askyourpdf.com](https://askyourpdf.com/) |
 | ChatPDF     | Upload PDFs to summarize content and answer questions for free.         | [chatpdf.com](https://www.chatpdf.com/) |
 | OpenRead    | Features for paper Q&A, fast reading, comments, and annotations.        | [openread.academy](https://www.openread.academy/) |
+| Remio       | Local-first AI memory and knowledge base app for parsing and indexing research files, webpages, recordings, emails, messages, images, and notes. | [remio.ai](https://remio.ai/) |
 | SciSummary  | AI-powered summarization of scientific articles and papers.             | [scisummary.com](https://scisummary.com/) |
 
 ## Writing and Editing
