@@ -18,6 +18,7 @@ These tools help in finding, connecting, and analyzing research papers and liter
 | Lens             | Comprehensive scholarly search and analytics platform.                  | [lens.org](https://www.lens.org/) |
 | Dimensions       | Database for discovering research, grants, and patents.                 | [dimensions.ai](https://www.dimensions.ai/) |
 | Scopus           | AI-powered database for peer-reviewed literature across disciplines.    | [scopus.com](https://www.scopus.com/) |
+| JournalCompass | Free bilingual journal search with AI journal matcher; covers 43,499 journals with CAS tiers, impact factors, review times and APCs. | [journalcompass.com](https://journalcompass.com) |
 
 ## PDF and Document Interaction
 
